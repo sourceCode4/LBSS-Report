@@ -1,2 +1,2 @@
-# LBSS-Report
-Summary of a paper for Language Based Software Security course at TU Delft
+# Paper summary
+Summary of "Dependent Types for Low-Level Programming" by Condit et al. for Language Based Software Security course at TU Delft
